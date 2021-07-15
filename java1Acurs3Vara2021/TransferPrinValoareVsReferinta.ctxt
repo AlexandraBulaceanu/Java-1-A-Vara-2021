@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TransferPrinValoareVsReferinta
+comment1.params=x
+comment1.target=void\ transferPrinValoare(int)
+comment2.params=a1
+comment2.target=void\ transferPrinReferinta(Angajat)
+numComments=3
